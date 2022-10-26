@@ -25,7 +25,7 @@ alpakka:
 aws-lamda-scala:
   name: aws-lambda-scala
   url: https://github.com/mkotsur/aws-lambda-scala
-  categories: [AWS, Cloud, Lambda]
+  categories: [AWS, Cloud, Serverless]
   platforms: [scala]
 
 caliban:
