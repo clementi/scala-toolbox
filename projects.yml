@@ -13,7 +13,7 @@ akka-stream:
 akka:
   name: Akka
   url: https://github.com/akka/akka
-  categories: [Reactive]
+  categories: [Actors, Reactive]
   platforms: [scala]
 
 alpakka:
@@ -22,4 +22,75 @@ alpakka:
   categories: [Reactive, Streaming]
   platforms: [scala]
 
+aws-lamda-scala:
+  name: aws-lambda-scala
+  url: https://github.com/mkotsur/aws-lambda-scala
+  categories: [AWS, Cloud, Lambda]
+  platforms: [scala]
+
+caliban:
+  name: Caliban
+  url: https://ghostdogpr.github.io/caliban
+  categories: [GraphQL]
+  platforms: [scala]
+
+case-app:
+  name: case-app
+  url: https://github.com/alexarchambault/case-app
+  categories: [CLI]
+  platforms: [scala]
+
+cask:
+  name: cask
+  url: https://com-lihaoyi.github.io/cask
+  categories: [HTTP]
+  platforms: [scala]
+
+castor:
+  name: castor
+  url: https://github.com/com-lihaoyi/castor
+  categories: [Actors]
+  platforms: [scala]
+
+cats-effect:
+  name: Cats Effect
+  url: https://typelevel.org/cats-effect
+  categories: [Effects, Functional Programming]
+  platforms: [scala, scalajs]
+
+cats:
+  name: Cats
+  url: https://typelevel.org/cats
+  categories: [Functional Programming]
+  platforms: [scala, scalajs]
+
+cats-retry:
+  name: cats-retry
+  url: https://cb372.github.io/cats-retry
+  categories: [Functional Programming]
+  platforms: [scala]
+
+circe:
+  name: Circe
+  url: https://circe.github.io/circe
+  categories: [JSON]
+  platforms: [scala]
+
+ciris:
+  name: ciris
+  url: https://cir.is
+  categories: [Configuration]
+  platforms: [scala]
+
+clump:
+  name: Clump
+  url: https://github.com/getclump/clump
+  categories: [Web Services]
+  platforms: [scala]
+
+cron4s:
+  name: Cron4s
+  url: https://www.alonsodomin.me/cron4s
+  categories: [Parsing]
+  platforms: [scala, scalajs]
 
