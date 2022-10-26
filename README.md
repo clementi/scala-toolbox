@@ -1,4 +1,4 @@
-# The Clojure Toolbox
+# The Scala Toolbox
 
 This is the source code for the Scala Toolbox.
 
