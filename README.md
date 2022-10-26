@@ -1,6 +1,6 @@
 # The Clojure Toolbox
 
-This is the source code for <https://www.clojure-toolbox.com>.
+This is the source code for the Scala Toolbox.
 
 ## Building
 
