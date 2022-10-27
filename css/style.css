@@ -208,12 +208,12 @@ html.no-js #project-list, html.no-js footer {
     font-size: 9pt;
 }
 
-#main .platform.clj {
+#main .platform.scala {
     background: #b8e;
     color: #fff;
 }
 
-#main .platform.cljs {
+#main .platform.scalajs {
     background: #e99;
     color: #fff;
 }
