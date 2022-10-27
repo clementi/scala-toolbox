@@ -55,7 +55,7 @@ castor:
 cats-effect:
   name: Cats Effect
   url: https://typelevel.org/cats-effect
-  categories: [Effects, Functional Programming]
+  categories: [Effects, Functional Programming, Asynchronous I/O]
   platforms: [scala, scalajs]
 
 cats:
