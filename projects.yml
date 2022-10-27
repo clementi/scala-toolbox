@@ -50,7 +50,7 @@ castor:
   name: castor
   url: https://github.com/com-lihaoyi/castor
   categories: [Actors]
-  platforms: [scala]
+  platforms: [scala, scalajs]
 
 cats-effect:
   name: Cats Effect
