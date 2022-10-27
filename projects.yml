@@ -117,3 +117,57 @@ doobie:
   url: https://tpolecat.github.io/doobie
   categories: [SQL Clients]
   platforms: [scala]
+
+enumeratum:
+  name: enumeratum
+  url: https://github.com/lloydmeta/enumeratum
+  categories: [Enumerations]
+  platforms: [scala]
+
+extruder:
+  name: extruder
+  url: https://janstenpickle.github.io/extruder
+  categories: [Data Access]
+  platforms: [scala]
+
+fastparse:
+  name: FastParse
+  url: https://com-lihaoyi.github.io/fastparse
+  categories: [Parsing]
+  platforms: [scala]
+
+fetch:
+  name: fetch
+  url: https://47degrees.github.io/fetch
+  categories: [Data Access]
+  platforms: [scala]
+
+finagle:
+  name: finagle
+  url: https://twitter.github.io/finagle
+  categories: [Concurrency, RPC]
+  platforms: [scala]
+
+finatra:
+  name: Finatra
+  url: https://twitter.github.io/finatra
+  categories: [Web Services]
+  platforms: [scala]
+
+finch:
+  name: finch
+  url: https://finagle.github.io/finch
+  categories: [Web Services]
+  platforms: [scala]
+
+fs2:
+  name: fs2
+  url: https://fs2.io/
+  categories: [Streaming]
+  platforms: [scala]
+
+fs2-blobstore:
+  name: fs2-blobstore
+  url: https://github.com/fs2-blobstore/fs2-blobstore
+  categories: [Streaming]
+  platforms: [scala]
