@@ -94,3 +94,26 @@ cron4s:
   categories: [Parsing]
   platforms: [scala, scalajs]
 
+decline:
+  name: decline
+  url: https://ben.kirw.in/decline
+  categories: [CLI]
+  platforms: [scala]
+
+diode:
+  name: Diode
+  url: https://diode.suzaku.io/
+  categories: [State]
+  platforms: [scala, scalajs]
+
+dispatch:
+  name: Dispatch
+  url: https://dispatchhttp.org/
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+doobie:
+  name: Doobie
+  url: https://tpolecat.github.io/doobie
+  categories: [SQL Clients]
+  platforms: [scala]
