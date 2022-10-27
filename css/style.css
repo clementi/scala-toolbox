@@ -209,12 +209,12 @@ html.no-js #project-list, html.no-js footer {
 }
 
 #main .platform.scala {
-    background: #b8e;
+    background: #9e9;
     color: #fff;
 }
 
 #main .platform.scalajs {
-    background: #e99;
+    background: #b8e;
     color: #fff;
 }
 
@@ -224,11 +224,11 @@ footer {
   left: 0;
   width: 100%;
   height: 35px;
-  background: #604080;
-  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #664488), color-stop(100%, #553377));
-  background-image: -moz-linear-gradient(top, #664488 0%, #553377 100%);
-  background-image: linear-gradient(top, #664488 0%, #553377 100%);
-  border-top: 1px solid #775599;
+  background: #406080;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #446688), color-stop(100%, #335577));
+  background-image: -moz-linear-gradient(top, #446688 0%, #335577 100%);
+  background-image: linear-gradient(top, #446688 0%, #335577 100%);
+  border-top: 1px solid #557799;
   color: white;
   margin-top: 20px;
   font-size: 12px;
