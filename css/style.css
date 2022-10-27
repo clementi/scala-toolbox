@@ -209,12 +209,12 @@ html.no-js #project-list, html.no-js footer {
 }
 
 #main .platform.scala {
-    background: #9e9;
+    background: #e99;
     color: #fff;
 }
 
 #main .platform.scalajs {
-    background: #b8e;
+    background: #8be;
     color: #fff;
 }
 
