@@ -43,7 +43,7 @@ case-app:
 cask:
   name: cask
   url: https://com-lihaoyi.github.io/cask
-  categories: [HTTP]
+  categories: [Web Frameworks]
   platforms: [scala]
 
 castor:
@@ -226,3 +226,8 @@ log4cats:
   categories: [Logging]
   platforms: [scala]
 
+log4s:
+  name: log4s
+  url: https://github.com/Log4s/log4s
+  categories: [Logging]
+  platforms: [scala]
