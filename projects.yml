@@ -171,3 +171,15 @@ fs2-blobstore:
   url: https://github.com/fs2-blobstore/fs2-blobstore
   categories: [Streaming]
   platforms: [scala]
+
+hammock:
+  name: hammock
+  url: https://github.com/pepegar/hammock
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+http4s:
+  name: http4s
+  url: https://http4s.org/
+  categories: [HTTP Clients, HTTP Servers, Web Frameworks]
+  platforms: [scala]
