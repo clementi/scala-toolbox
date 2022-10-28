@@ -183,3 +183,46 @@ http4s:
   url: https://http4s.org/
   categories: [HTTP Clients, HTTP Servers, Web Frameworks]
   platforms: [scala]
+
+jawn:
+  name: jawn
+  url: https://github.com/typelevel/jawn
+  categories: [JSON]
+  platforms: [scala]
+
+json4s:
+  name: json4s
+  url: https://json4s.org/
+  categories: [JSON]
+  platforms: [scala]
+
+kittens:
+  name: kittens
+  url: https://github.com/typelevel/kittens
+  categories: [Functional Programming]
+  platforms: [scala]
+
+lagom:
+  name: lagom
+  url: https://www.lagomframework.com/
+  categories: [Web Services]
+  platforms: [scala]
+
+libra:
+  name: Libra
+  url: https://to-ithaca.github.io/libra
+  categories: [Scientific Computing]
+  platforms: [scala]
+
+lift:
+  name: Lift
+  url: https://liftweb.net/
+  categories: [Web Frameworks]
+  platforms: [scala]
+
+log4cats:
+  name: log4cats
+  url: https://typelevel.org/log4cats
+  categories: [Logging]
+  platforms: [scala]
+
