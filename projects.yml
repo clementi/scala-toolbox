@@ -7,7 +7,7 @@ akka-http:
 akka-stream:
   name: Akka stream
   url: https://doc.akka.io/docs/akka/current/stream
-  categories: [Reactive, Streaming]
+  categories: [Reactive, Stream Processing]
   platforms: [scala]
 
 akka:
@@ -19,7 +19,7 @@ akka:
 alpakka:
   name: Alpakka
   url: https://github.com/akka/alpakka
-  categories: [Reactive, Streaming]
+  categories: [Reactive, Stream Processing]
   platforms: [scala]
 
 aws-lamda-scala:
@@ -67,7 +67,7 @@ cats:
 cats-retry:
   name: cats-retry
   url: https://cb372.github.io/cats-retry
-  categories: [Functional Programming]
+  categories: [Retrying Failures]
   platforms: [scala]
 
 circe:
@@ -163,13 +163,13 @@ finch:
 fs2:
   name: fs2
   url: https://fs2.io/
-  categories: [Streaming]
+  categories: [Stream Processing]
   platforms: [scala]
 
 fs2-blobstore:
   name: fs2-blobstore
   url: https://github.com/fs2-blobstore/fs2-blobstore
-  categories: [Streaming]
+  categories: [Stream Processing]
   platforms: [scala]
 
 hammock:
@@ -230,4 +230,364 @@ log4s:
   name: log4s
   url: https://github.com/Log4s/log4s
   categories: [Logging]
+  platforms: [scala]
+
+cats-mtl:
+  name: Cats MTL
+  url: https://typelevel.org/cats-mtl/
+  categories: [Functional Programming]
+  platforms: [scala]
+  
+macwire:
+  name: macwire
+  url: https://github.com/softwaremill/macwire
+  categories: [Application Frameworks, Dependency Injection]
+  platforms: [scala]
+
+mainargs:
+  name: mainargs
+  url: https://github.com/com-lihaoyi/mainargs
+  categories: [CLI]
+  platforms: [scala]
+
+modux:
+  name: Modux
+  url: https://modux4s.github.io/modux
+  categories: [Web Services, Web Frameworks]
+  platforms: [scala]
+
+monix:
+  name: Monix
+  url: https://modux4s.github.io/modux
+  categories: [Asynchronous I/O, Evented I/O, Effects]
+  platforms: [scala]
+
+monocle:
+  name: Monocle
+  url: https://www.optics.dev/Monocle
+  categories: [Lenses]
+  platforms: [scala]
+
+mu:
+  name: Mu
+  url: https://higherkindness.io/mu
+  categories: [Web Services]
+  platforms: [scala]
+
+munit:
+  name: munit
+  url: https://scalameta.org/munit
+  categories: [Testing]
+  platforms: [scala]
+
+neutron:
+  name: Neutron
+  url: https://neutron.profunktor.dev/
+  categories: [Apache Pulsar Clients]
+  platforms: [scala]
+
+optparse:
+  name: optparse
+  url: https://github.com/sellmerfud/optparse
+  categories: [CLI]
+  platforms: [scala]
+
+oslib:
+  name: oslib
+  url: https://github.com/com-lihaoyi/os-lib
+  categories: [Filesystem Utilities, OS APIs]
+  platforms: [scala]
+
+phantom:
+  name: phantom
+  url: https://github.com/outworkers/phantom
+  categories: [Cassandra Clients]
+  platforms: [scala]
+
+play:
+  name: play
+  url: https://github.com/playframework/playframework
+  categories: [Web Services, Web Frameworks]
+  platforms: [scala]
+
+play-ws:
+  name: play-ws
+  url: https://github.com/playframework/play-ws
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+play-json:
+  name: play-JSON
+  url: https://github.com/playframework/play-json
+  categories: [JSON]
+  platforms: [scala]
+
+play-socket.io:
+  name: play-socket.io
+  url: https://github.com/playframework/play-socket.io
+  categories: [Web Sockets]
+  platforms: [scala]
+
+play-soap:
+  name: play-soap
+  url: https://github.com/playframework/play-soap
+  categories: [Web Services]
+  platforms: [scala]
+
+twirl:
+  name: twirl
+  url: https://github.com/playframework/twirl
+  categories: [Templating]
+  platforms: [scala]
+
+play-slick:
+  name: play-slick
+  url: https://github.com/playframework/play-slick
+  categories: [Data Access]
+  platforms: [scala]
+
+play-mailer:
+  name: play-mailer
+  url: https://github.com/playframework/play-mailer
+  categories: [Email]
+  platforms: [scala]
+
+anorm:
+  name: anorm
+  url: https://github.com/playframework/anorm
+  categories: [Data Access]
+  platforms: [scala]
+
+scalatestplus-play:
+  name: scalatestplus-play
+  url: https://github.com/playframework/scalatestplus-play
+  categories: [Testing]
+  platforms: [scala]
+
+akka-grpc:
+  name: akka-grpc
+  url: https://github.com/akka/akka-grpc
+  categories: [RPC]
+  platforms: [scala]
+
+play-grpc:
+  name: play-grpc
+  url: https://github.com/playframework/play-grpc
+  categories: [RPC]
+  platforms: [scala]
+
+play-filewatch:
+  name: play-filewatch
+  url: https://github.com/playframework/play-file-watch
+  categories: [Filesystem Watchers]
+  platforms: [scala]
+
+cachecontrol:
+  name: cachecontrol
+  url: https://github.com/playframework/cachecontrol
+  categories: [HTTP Caching]
+  platforms: [scala]
+
+pureconfig:
+  name: PureConfig
+  url: https://pureconfig.github.io/
+  categories: [Configuration]
+  platforms: [scala]
+
+quicklens:
+  name: quicklens
+  url: https://github.com/softwaremill/quicklens
+  categories: [Lenses]
+  platforms: [scala]
+
+quill:
+  name: Quill
+  url: https://getquill.io/
+  categories: [Data Access]
+  platforms: [scala]
+
+requests-scala:
+  name: requests-scala
+  url: https://github.com/com-lihaoyi/requests-scala
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+retry:
+  name: retry
+  url: https://github.com/softwaremill/retry
+  categories: [Retrying Failures]
+  platforms: [scala]
+
+rho:
+  name: rho
+  url: https://github.com/http4s/rho
+  categories: [HTTP Servers]
+  platforms: [scala]
+
+rng:
+  name: rng
+  url: https://github.com/NICTA/rng
+  categories: [Random Data Generation]
+  platforms: [scala]
+
+sangria:
+  name: Sangria
+  url: https://sangria-graphql.github.io/
+  categories: [GraphQL]
+  platforms: [scala]
+
+scaffeine:
+  name: scaffeine
+  url: https://github.com/blemale/scaffeine
+  categories: [Caching]
+  platforms: [scala]
+
+scala-colog:
+  name: Scala Colog
+  url: https://www.alonsodomin.me/scala-colog/docs/overview
+  categories: [Logging]
+  platforms: [scala]
+
+scala-on-android:
+  name: Scala on Android
+  url: https://scala-android.org/
+  categories: [Android]
+  platforms: [scala]
+
+scala-parser-combinators:
+  name: scala-parser-combinators
+  url: https://github.com/scala/scala-parser-combinators
+  categories: [Parsing]
+  platforms: [scala]
+
+scalacheck:
+  name: ScalaCheck
+  url: https://scalacheck.org/
+  categories: [Testing, Random Data Generation]
+  platforms: [scala]
+
+scalactic:
+  name: scalactic
+  url: https://www.scalactic.org/
+  categories: [Functional Programming]
+  platforms: [scala]
+
+scalaj-http:
+  name: scalaj-http
+  url: https://github.com/scalaj/scalaj-http
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+scalatags:
+  name: scalatags
+  url: https://com-lihaoyi.github.io/scalatags
+  categories: [HTML, XML, CSS]
+  platforms: [scala]
+
+scalatest:
+  name: scalatest
+  url: https://www.scalatest.org/
+  categories: [Testing]
+  platforms: [scala]
+
+scalaxb:
+  name: scalaxb
+  url: https://scalaxb.org/
+  categories: [XML]
+  platforms: [scala]
+
+scalaz:
+  name: scalaz
+  url: https://scalaz.github.io/scalaz
+  categories: [Functional Programming]
+  platforms: [scala]
+
+scallop:
+  name: scallop
+  url: https://github.com/scallop/scallop
+  categories: [CLI]
+  platforms: [scala]
+
+scodec:
+  name: scodec
+  url: https://scodec.org/
+  categories: [Binary Data]
+  platforms: [scala]
+
+scopt:
+  name: scopt
+  url: https://github.com/scopt/scopt
+  categories: [CLI]
+  platforms: [scala]
+
+shapeless:
+  name: shapeless
+  url: https://github.com/milessabin/shapeless
+  categories: [Functional Programming, Generic Programming]
+  platforms: [scala]
+
+singleton-ops:
+  name: singleton-ops
+  url: https://github.com/fthomas/singleton-ops
+  categories: [Singleton Types]
+  platforms: [scala]
+
+slick:
+  name: Slick
+  url: https://scala-slick.org/
+  categories: [Data Access]
+  platforms: [scala]
+
+spire:
+  name: Spire
+  url: https://github.com/typelevel/spire
+  categories: [Scientific Computing, Math]
+  platforms: [scala]
+
+squants:
+  name: Squants
+  url: https://www.squants.com
+  categories: [Scientific Computing]
+  platforms: [scala]
+
+sttp:
+  name: sttp
+  url: https://sttp.softwaremill.com/
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+tapir:
+  name: tapir
+  url: https://tapir.softwaremill.com/
+  categories: [Web Services]
+  platforms: [scala]
+
+twitterserver:
+  name: TwitterServer
+  url: https://twitter.github.io/twitter-Servers
+  categories: [HTTP Servers]
+  platforms: [scala]
+
+unfiltered:
+  name: unfiltered
+  url: https://unfiltered.ws/
+  categories: [HTTP Servers]
+  platforms: [scala]
+
+upickle:
+  name: uPickle
+  url: https://com-lihaoyi.github.io/upickle
+  categories: [Data Serialization]
+  platforms: [scala]
+
+utest:
+  name: utest
+  url: https://github.com/com-lihaoyi/utest
+  categories: [Testing]
+  platforms: [scala]
+
+zip:
+  name: zio
+  url: https://zio.dev/
+  categories: [Asynchronous I/O, Effects]
   platforms: [scala]
