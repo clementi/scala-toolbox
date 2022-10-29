@@ -765,3 +765,57 @@ sbt-tpolecat:
   url: https://github.com/typelevel/sbt-tpolecat
   categories: [SBT Plugins]
   platforms: [scala]
+
+akka/akka-quickstart-scala.g8:
+  name: akka/akka-quickstart-scala.g8
+  url: https://github.com/akka/akka-quickstart-scala.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+clementi/cats-effect-seed.g8:
+  name: clementi/cats-effect-seed.g8
+  url: https://github.com/clementi/cats-effect-seed.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+devinsideyou/scala3-seed.g8:
+  name: devinsideyou/scala3-seed.g8
+  url: https://github.com/DevInsideYou/scala3-seed.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+http4s/http4s.g8:
+  name: http4s/http4s.g8
+  url: https://github.com/http4s/http4s.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+http4s/http4s-io.g8:
+  name: http4s/http4s-io.g8
+  url: https://github.com/http4s/http4s-io.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+scala/scala-seed.g8:
+  name: scala/scala-seed.g8
+  url: https://github.com/scala/scala-seed.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+scala/scala3-cross.g8:
+  name: scala/scala3-cross.g8
+  url: https://github.com/scala/scala3-cross.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+scala/scala3.g8:
+  name: scala/scala3.g8
+  url: https://github.com/scala/scala3.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+scalameta/mill-scala-seed.g8:
+  name: scalameta/mill-scala-seed.g8
+  url: https://github.com/scalameta/mill-scala-seed.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
