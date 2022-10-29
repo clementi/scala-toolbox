@@ -337,7 +337,7 @@ play-soap:
 twirl:
   name: twirl
   url: https://github.com/playframework/twirl
-  categories: [Templating]
+  categories: [Templating, HTML Generation]
   platforms: [scala]
 
 play-slick:
@@ -590,4 +590,154 @@ zip:
   name: zio
   url: https://zio.dev/
   categories: [Asynchronous I/O, Effects]
+  platforms: [scala]
+
+ammonite:
+  name: ammonite
+  url: https://ammonite.io/
+  categories: [REPLs]
+  platforms: [scala]
+
+bazel:
+  name: Bazel
+  url: https://bazel.build/
+  categories: [Build Tools]
+  platforms: [scala]
+
+bloop:
+  name: Bloop
+  url: https://scalacenter.github.io/bloop
+  categories: [Build Tools, IDE Integration]
+  platforms: [scala]
+
+cbt:
+  name: cbt
+  url: https://github.com/cvogt/cbt
+  categories: [Build Tools]
+  platforms: [scala]
+
+coursier:
+  name: coursier
+  url: https://get-coursier.io/
+  categories: [Artifact Fetchers]
+  platforms: [scala]
+
+fury:
+  name: Fury
+  url: https://github.com/propensive/fury
+  categories: [Build Tools]
+  platforms: [scala]
+
+giter8:
+  name: giter8
+  url: https://www.foundweekends.org/giter8
+  categories: [Project Generators]
+  platforms: [scala]
+
+mdoc:
+  name: mdoc
+  url: https://scalameta.org/mdoc
+  categories: [Documentation Tools]
+  platforms: [scala]
+
+metals:
+  name: Metals
+  url: https://scalameta.org/metals
+  categories: [IDE Integration]
+  platforms: [scala]
+
+mill:
+  name: Mill
+  url: https://com-lihaoyi.github.io/mill/
+  categories: [Build Tools]
+  platforms: [scala]
+
+pants:
+  name: Pants
+  url: https://v1.pantsbuild.org/scala.html
+  categories: [Build Tools]
+  platforms: [scala]
+
+sbt-assembly:
+  name: sbt-assembly
+  url: https://github.com/sbt/sbt-assembly
+  categories: [SBT Plugins]
+  platforms: [scala]
+
+sbt-buildinfo:
+  name: sbt-buildinfo
+  url: https://github.com/sbt/sbt-buildinfo
+  categories: [SBT Plugins]
+  platforms: [scala]
+
+sbt-dependency-graph:
+  name: sbt-dependency-graph
+  url: https://github.com/sbt/sbt-dependency-graph
+  categories: [SBT Plugins, Dependency Management]
+  platforms: [scala]
+
+sbt-microsites:
+  name: sbt-microsites
+  url: https://47degrees.github.io/sbt-microsites
+  categories: [Static Site Generation]
+  platforms: [scala]
+
+sbt-scoverage:
+  name: sbt-scoverage
+  url: https://github.com/scoverage/sbt-scoverage
+  categories: [Code Analysis]
+  platforms: [scala]
+
+scala-clippy:
+  name: Scala Clippy
+  url: https://scala-clippy.org/
+  categories: [SBT Plugins]
+  platforms: [scala]
+
+scala-steward:
+  name: scala-steward
+  url: https://github.com/scala-steward-org/scala-steward
+  categories: [Dependency Management]
+  platforms: [scala]
+
+scalafmt:
+  name: scalafmt
+  url: https://scalameta.org/scalafmt
+  categories: [Code Formatting Tools]
+  platforms: [scala]
+
+scalariform:
+  name: scalariform
+  url: https://scala-ide.org/scalariform
+  categories: [Code Formatting Tools]
+  platforms: [scala]
+
+seed:
+  name: Seed
+  url: https://tindzk.github.io/seed
+  categories: [Build Tools]
+  platforms: [scala]
+
+splain:
+  name: splain
+  url: https://github.com/tek/splain
+  categories: [SBT Plugins]
+  platforms: [scala]
+
+twotails:
+  name: TwoTails
+  url: https://github.com/wheaties/TwoTails
+  categories: [Compiler Plugins]
+  platforms: [scala]
+
+sbt:
+  name: SBT
+  url: https://www.scala-sbt.org/
+  categories: [Build Tools]
+  platforms: [scala, scalajs]
+
+skunk:
+  name: skunk
+  url: https://github.com/tpolecat/skunk
+  categories: [Data Access, Postgres Clients]
   platforms: [scala]
