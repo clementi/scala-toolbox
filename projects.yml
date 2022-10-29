@@ -741,3 +741,15 @@ skunk:
   url: https://github.com/tpolecat/skunk
   categories: [Data Access, Postgres Clients]
   platforms: [scala]
+
+armeria:
+  name: Armeria
+  url: https://armeria.dev/docs/advanced-scala/
+  categories: [Web Services]
+  platforms: [scala]
+
+vertx-lang-scala:
+  name: vertx-lang-scala
+  url: https://github.com/vert-x3/vertx-lang-scala
+  categories: [Reactive]
+  platforms: [scala]
