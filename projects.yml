@@ -753,3 +753,15 @@ vertx-lang-scala:
   url: https://github.com/vert-x3/vertx-lang-scala
   categories: [Reactive]
   platforms: [scala]
+
+sbt-sonar:
+  name: sbt-sonar
+  url: https://github.com/sonar-scala/sbt-sonar
+  categories: [SBT Plugins, Code Analysis]
+  platforms: [scala]
+
+sbt-tpolecat:
+  name: sbt-tpolecat
+  url: https://github.com/typelevel/sbt-tpolecat
+  categories: [SBT Plugins]
+  platforms: [scala]
