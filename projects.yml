@@ -825,3 +825,9 @@ argonaut:
   url: https://github.com/argonaut-io/argonaut
   categories: [JSON]
   platforms: [scala]
+  
+scalastm:
+  name: ScalaSTM
+  url: https://nbronson.github.io/scala-stm/
+  categories: [Concurrency]
+  platforms: [scala]
