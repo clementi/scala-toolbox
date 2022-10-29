@@ -819,3 +819,9 @@ scalameta/mill-scala-seed.g8:
   url: https://github.com/scalameta/mill-scala-seed.g8
   categories: [Giter8 Templates]
   platforms: [scala]
+
+argonaut:
+  name: argonaut
+  url: https://github.com/argonaut-io/argonaut
+  categories: [JSON]
+  platforms: [scala]
