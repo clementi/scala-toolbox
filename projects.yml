@@ -831,3 +831,9 @@ scalastm:
   url: https://nbronson.github.io/scala-stm/
   categories: [Concurrency]
   platforms: [scala]
+
+endpoints4s:
+  name: endpoints4s
+  url: https://github.com/endpoints4s/endpoints4s
+  categories: [Web Services]
+  platforms: [scala]
