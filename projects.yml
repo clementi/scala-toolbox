@@ -843,3 +843,75 @@ scala-guice:
   url: https://github.com/codingwell/scala-guice
   categories: [Application Frameworks, Dependency Injection]
   platforms: [scala]
+
+argonaut-shapeless:
+  name: argonaut-shapeless
+  url: https://github.com/alexarchambault/argonaut-shapeless
+  categories: [JSON]
+  platforms: [scala]
+  
+banana-rdf:
+  name: banana-rdf
+  url: https://github.com/banana-rdf/banana-rdf
+  categories: [Linked Data & RDF]
+  platforms: [scala]
+  
+case-insensitive:
+  name: case-insensitive
+  url: https://github.com/typelevel/case-insensitive
+  categories: [String Manipulation]
+  platforms: [scala]
+
+catbird:
+  name: catbird
+  url: https://github.com/typelevel/catbird
+  categories: [Functional Programming]
+  platforms: [scala]
+
+cats-collections:
+  name: Cats Collections
+  url: https://github.com/typelevel/cats-collections
+  categories: [Functional Programming, Collections]
+  platforms: [scala]
+
+cats-mtl:
+  name: Cats MTL
+  url: https://github.com/typelevel/cats-mtl/
+  categories: [Functional Programming, Monad Transformers]
+  platforms: [scala]
+
+cats-parse:
+  name: cats-parse
+  url: https://github.com/typelevel/cats-parse
+  categories: [Parsing]
+  platforms: [scala]
+
+cats-scalatest:
+  name: cats-scalatest
+  url: https://github.com/typelevel/cats
+  categories: [Testing]
+  platforms: [scala]
+
+cats-tagless:
+  name: Cats Tagless
+  url: https://github.com/typelevel/cats-tagless/
+  categories: [Algebras]
+  platforms: [scala]
+
+cats-time:
+  name: cats-time
+  url: https://github.com/ChristopherDavenport/cats-time
+  categories: [Date and Time]
+  platforms: [scala]
+
+coulomb:
+  name: coulomb
+  url: https://github.com/erikerlandson/coulomb
+  categories: [Scientific Computing]
+  platforms: [scala]
+
+algebra:
+  name: algebra
+  url: https://github.com/non/algebra
+  categories: [Algebras]
+  platforms: [scala]
