@@ -577,7 +577,7 @@ unfiltered:
 upickle:
   name: uPickle
   url: https://com-lihaoyi.github.io/upickle
-  categories: [Data Serialization]
+  categories: [Data Serialization, Binary Data]
   platforms: [scala]
 
 utest:
