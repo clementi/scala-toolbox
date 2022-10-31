@@ -921,3 +921,33 @@ scala-kafka-client:
   url: https://github.com/cakesolutions/scala-kafka-client
   categories: [Kafka Clients]
   platforms: [scala]
+
+redis4cats:
+  name: redis4cats
+  url: https://github.com/profunktor/redis4cats
+  categories: [Redis Clients]
+  platforms: [scala]
+
+fs2-rabbit:
+  name: fs2-rabbit
+  url: https://github.com/profunktor/fs2-rabbit
+  categories: [RabbitMQ Client, Stream Processing]
+  platforms: [scala]
+
+http4s-jwt-auth:
+  name: http4s-jwt-auth
+  url: https://github.com/profunktor/http4s-jwt-auth
+  categories: [Authentication]
+  platforms: [scala]
+
+http4s-tracer:
+  name: http4s-tracer
+  url: https://github.com/profunktor/http4s-tracer
+  categories: [HTTP Middleware, Tracing]
+  platforms: [scala]
+
+dorado:
+  name: dorado
+  url: https://github.com/profunktor/dorado
+  categories: [Testing]
+  platforms: [scala]
