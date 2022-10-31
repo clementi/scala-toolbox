@@ -951,3 +951,9 @@ dorado:
   url: https://github.com/profunktor/dorado
   categories: [Testing]
   platforms: [scala]
+  
+paradox:
+  name: paradox
+  url: https://github.com/lightbend/paradox
+  categories: [Documentation Tools]
+  platforms: [scala]
