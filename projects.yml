@@ -957,3 +957,9 @@ paradox:
   url: https://github.com/lightbend/paradox
   categories: [Documentation Tools]
   platforms: [scala]
+  
+hepek:
+  name: hepek
+  url: https://github.com/sake92/hepek
+  categories: [Static Site Generation, HTML Generation, Templating]
+  platforms: [scala]
