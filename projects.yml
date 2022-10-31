@@ -837,3 +837,9 @@ endpoints4s:
   url: https://github.com/endpoints4s/endpoints4s
   categories: [Web Services]
   platforms: [scala]
+
+scala-guice:
+  name: scala-guice
+  url: https://github.com/codingwell/scala-guice
+  categories: [Application Frameworks, Dependency Injection]
+  platforms: [scala]
