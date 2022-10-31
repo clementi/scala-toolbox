@@ -915,3 +915,9 @@ algebra:
   url: https://github.com/non/algebra
   categories: [Algebras]
   platforms: [scala]
+
+scala-kafka-client:
+  name: scala-kafka-client
+  url: https://github.com/cakesolutions/scala-kafka-client
+  categories: [Kafka Clients]
+  platforms: [scala]
