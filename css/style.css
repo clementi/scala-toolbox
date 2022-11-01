@@ -1,15 +1,75 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -18,8 +78,17 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block;
 }
 
@@ -30,7 +99,10 @@ body {
   *font-size: small;
 }
 
-body, select, input, textarea {
+body,
+select,
+input,
+textarea {
   color: #444444;
 }
 
@@ -39,7 +111,8 @@ html {
   overflow-y: scroll;
 }
 
-body, #container {
+body,
+#container {
   min-height: 100%;
 }
 
@@ -48,7 +121,9 @@ body, #container {
   width: 100%;
 }
 
-a, a:active, a:visited {
+a,
+a:active,
+a:visited {
   color: #786090;
 }
 
@@ -56,11 +131,13 @@ a:hover {
   color: #330066;
 }
 
-ul, ol {
+ul,
+ol {
   margin-left: 2em;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
   outline: none;
 }
 
@@ -68,7 +145,12 @@ a:link {
   -webkit-tap-highlight-color: #ff5e99;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: bold;
 }
 
@@ -111,7 +193,8 @@ header .toolbox {
   background-repeat: no-repeat;
 }
 
-header h1, header .description {
+header h1,
+header .description {
   width: 500px;
   margin: auto;
   padding-left: 170px;
@@ -156,11 +239,13 @@ header #j {
   box-shadow: 0 0 10px #7be;
 }
 
-html.no-js #project-list, html.no-js footer {
+html.no-js #project-list,
+html.no-js footer {
   visibility: visible;
 }
 
-#project-list, footer {
+#project-list,
+footer {
   visibility: hidden;
 }
 
@@ -186,6 +271,7 @@ html.no-js #project-list, html.no-js footer {
 #main .category ul {
   list-style: square;
 }
+
 #main .category ul li {
   margin-bottom: 2px;
 }
@@ -200,23 +286,28 @@ html.no-js #project-list, html.no-js footer {
 }
 
 #main .platform {
-    display: inline-block;
-    border-radius: 4px;
-    color: #666;
-    background: #ddd;
-    margin: 0 2px;
-    padding: 0 3px;
-    font-size: 9pt;
+  display: inline-block;
+  border-radius: 4px;
+  color: #666;
+  background: #ddd;
+  margin: 0 2px;
+  padding: 0 3px;
+  font-size: 9pt;
 }
 
 #main .platform.scala {
-    background: #e99;
-    color: #fff;
+  background: #e99;
+  color: #fff;
 }
 
 #main .platform.scalajs {
-    background: #8be;
-    color: #fff;
+  background: #8be;
+  color: #fff;
+}
+
+#main .platform.scala-native {
+  background: #ccc;
+  color: #fff;
 }
 
 footer {
@@ -244,7 +335,10 @@ footer #copyright span {
   margin-right: 20px;
 }
 
-footer a, footer a:visited, footer a:hover, footer a:active {
+footer a,
+footer a:visited,
+footer a:hover,
+footer a:active {
   color: white;
 }
 
@@ -257,7 +351,8 @@ footer a, footer a:visited, footer a:hover, footer a:active {
     -ms-filter: none !important;
   }
 
-  a, a:visited {
+  a,
+  a:visited {
     color: #444 !important;
     text-decoration: underline;
   }
@@ -270,16 +365,21 @@ footer a, footer a:visited, footer a:hover, footer a:active {
     margin: 0.5cm;
   }
 
-  p, h2, h3 {
+  p,
+  h2,
+  h3 {
     orphans: 3;
     widows: 3;
   }
 
-  h2, h3 {
+  h2,
+  h3 {
     page-break-after: avoid;
   }
 }
 
 @media all and (orientation:portrait) {}
+
 @media all and (orientation:landscape) {}
+
 @media screen and (max-device-width: 480px) {}
