@@ -56,13 +56,13 @@ cats-effect:
   name: Cats Effect
   url: https://typelevel.org/cats-effect
   categories: [Effects, Functional Programming, Asynchronous I/O]
-  platforms: [scala, scalajs, scala-native]
+  platforms: [scala, scalajs, native]
 
 cats:
   name: Cats
   url: https://typelevel.org/cats
   categories: [Functional Programming]
-  platforms: [scala, scalajs, scala-native]
+  platforms: [scala, scalajs, native]
 
 cats-retry:
   name: cats-retry
