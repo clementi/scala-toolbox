@@ -975,3 +975,27 @@ blueeyes:
   url: https://github.com/jdegoes/blueeyes/
   categories: [Web Services]
   platforms: [scala]
+
+kantan:
+  name: kantan
+  url: https://github.com/nrinaudo/kantan.csv
+  categories: [CSV Parsers]
+  platforms: [scala]
+
+atto:
+  name: atto
+  url: https://github.com/tpolecat/atto
+  categories: [Parsing]
+  platforms: [scala]
+
+cancellable-task:
+  name: cancellable-task
+  url: https://github.com/nthportal/cancellable-task
+  categories: [Concurrency]
+  platforms: [scala]
+
+metascraper:
+  name: metascraper
+  url: https://github.com/lloydmeta/metascraper
+  categories: [Website Scraping]
+  platforms: [scala]
