@@ -421,7 +421,7 @@ retry:
 rho:
   name: rho
   url: https://github.com/http4s/rho
-  categories: [HTTP Servers]
+  categories: [Web Services]
   platforms: [scala]
 
 rng:
