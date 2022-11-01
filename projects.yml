@@ -91,7 +91,7 @@ clump:
 cron4s:
   name: Cron4s
   url: https://www.alonsodomin.me/cron4s
-  categories: [Parsing]
+  categories: [Cron Parsers]
   platforms: [scala, scalajs]
 
 decline:
