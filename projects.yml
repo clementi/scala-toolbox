@@ -1017,3 +1017,9 @@ cats-stm:
   url: https://github.com/timwspence/cats-stm
   categories: [Concurrency, Software Transactional Memory]
   platforms: [scala]
+
+minitest:
+  name: minitest
+  url: https://github.com/monix/minitest
+  categories: [Testing]
+  platforms: [scala, scalajs, native]
