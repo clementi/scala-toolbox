@@ -999,3 +999,9 @@ metascraper:
   url: https://github.com/lloydmeta/metascraper
   categories: [Website Scraping]
   platforms: [scala]
+
+refined:
+  name: refined
+  url: https://github.com/fthomas/refined
+  categories: [Refinement Types]
+  platforms: [scala]
