@@ -823,7 +823,7 @@ argonaut:
 scalastm:
   name: ScalaSTM
   url: https://nbronson.github.io/scala-stm/
-  categories: [Concurrency]
+  categories: [Concurrency, Software Transactional Memory]
   platforms: [scala]
 
 endpoints4s:
@@ -1010,4 +1010,10 @@ scala-logging:
   name: scala-Logging
   url: https://github.com/lightbend-labs/scala-logging
   categories: [Logging]
+  platforms: [scala]
+
+cats-stm:
+  name: cats-stm
+  url: https://github.com/timwspence/cats-stm
+  categories: [Concurrency, Software Transactional Memory]
   platforms: [scala]
