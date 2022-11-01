@@ -963,3 +963,15 @@ comorant:
   url: https://github.com/davenverse/cormorant
   categories: [CSV Parsers]
   platforms: [scala]
+
+redeyes:
+  name: redeyes
+  url: https://github.com/redeyes/redeyes
+  categories: [Web Services]
+  platforms: [scala]
+
+blueeyes:
+  name: blueeyes
+  url: https://github.com/jdegoes/blueeyes/
+  categories: [Web Services]
+  platforms: [scala]
