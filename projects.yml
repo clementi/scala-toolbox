@@ -963,3 +963,9 @@ hepek:
   url: https://github.com/sake92/hepek
   categories: [Static Site Generation, HTML Generation, Templating]
   platforms: [scala]
+
+comorant:
+  name: cormorant
+  url: https://github.com/davenverse/cormorant
+  categories: [CSV Parsers]
+  platforms: [scala]
