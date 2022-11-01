@@ -1005,3 +1005,9 @@ refined:
   url: https://github.com/fthomas/refined
   categories: [Refinement Types]
   platforms: [scala]
+
+scala-logging:
+  name: scala-Logging
+  url: https://github.com/lightbend-labs/scala-logging
+  categories: [Logging]
+  platforms: [scala]
