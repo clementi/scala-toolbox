@@ -884,7 +884,7 @@ cats-parse:
   name: cats-parse
   url: https://github.com/typelevel/cats-parse
   categories: [Parsing]
-  platforms: [scala]
+  platforms: [scala, scalajs]
 
 cats-scalatest:
   name: cats-scalatest
