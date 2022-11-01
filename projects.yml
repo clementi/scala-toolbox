@@ -231,12 +231,6 @@ log4s:
   url: https://github.com/Log4s/log4s
   categories: [Logging]
   platforms: [scala]
-
-cats-mtl:
-  name: Cats MTL
-  url: https://typelevel.org/cats-mtl/
-  categories: [Functional Programming]
-  platforms: [scala]
   
 macwire:
   name: macwire
