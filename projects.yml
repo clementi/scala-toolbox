@@ -1148,7 +1148,7 @@ scala-yaml:
   name: scala-yaml
   url: https://github.com/VirtusLab/scala-yaml
   categories: [YAML]
-  platforms: [scala]
+  platforms: [scala, scalajs, native]
 
 scorex:
   name: Scorex
