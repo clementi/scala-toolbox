@@ -1126,5 +1126,17 @@ scala-cli:
   categories: [Build Tools, Code Formatting Tools]
   platforms: [scala, scalajs, native]
 
+ujson:
+  name: uJson
+  url: https://com-lihaoyi.github.io/upickle/#uJson
+  categories: [JSON]
+  platforms: [scala]
+
+upack:
+  name: uPack
+  url: https://com-lihaoyi.github.io/upickle/#uPack
+  categories: [Binary Data]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
 # See https://github.com/disneystreaming
