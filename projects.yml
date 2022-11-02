@@ -231,7 +231,7 @@ log4s:
   url: https://github.com/Log4s/log4s
   categories: [Logging]
   platforms: [scala]
-  
+
 macwire:
   name: macwire
   url: https://github.com/softwaremill/macwire
@@ -569,7 +569,7 @@ unfiltered:
   platforms: [scala]
 
 upickle:
-  name: µPickle
+  name: µPickle (uPickle)
   url: https://com-lihaoyi.github.io/upickle
   categories: [Data Serialization, Binary Data, JSON]
   platforms: [scala]
@@ -819,7 +819,7 @@ argonaut:
   url: https://github.com/argonaut-io/argonaut
   categories: [JSON]
   platforms: [scala]
-  
+
 scalastm:
   name: ScalaSTM
   url: https://nbronson.github.io/scala-stm/
@@ -843,13 +843,13 @@ argonaut-shapeless:
   url: https://github.com/alexarchambault/argonaut-shapeless
   categories: [JSON]
   platforms: [scala]
-  
+
 banana-rdf:
   name: banana-rdf
   url: https://github.com/banana-rdf/banana-rdf
   categories: [Linked Data & RDF]
   platforms: [scala]
-  
+
 case-insensitive:
   name: case-insensitive
   url: https://github.com/typelevel/case-insensitive
@@ -945,13 +945,13 @@ dorado:
   url: https://github.com/profunktor/dorado
   categories: [Testing]
   platforms: [scala]
-  
+
 paradox:
   name: paradox
   url: https://github.com/lightbend/paradox
   categories: [Documentation Tools]
   platforms: [scala]
-  
+
 hepek:
   name: hepek
   url: https://github.com/sake92/hepek
@@ -1136,6 +1136,18 @@ upack:
   name: uPack
   url: https://com-lihaoyi.github.io/upickle/#uPack
   categories: [Binary Data]
+  platforms: [scala]
+
+circe-yaml:
+  name: circe-yaml
+  url: https://github.com/circe/circe-yaml
+  categories: [YAML]
+  platforms: [scala]
+
+scala-yaml:
+  name: scala-yaml
+  url: https://github.com/VirtusLab/scala-yaml
+  categories: [YAML]
   platforms: [scala]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
