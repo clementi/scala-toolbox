@@ -1029,3 +1029,9 @@ scala-xml:
   url: https://github.com/scala/scala-xml
   categories: [XML]
   platforms: [scala, scalajs, native]
+
+jackson-module-scala:
+  name: jackson-module-scala
+  url: https://github.com/FasterXML/jackson-module-scala
+  categories: [JSON]
+  platforms: [scala]
