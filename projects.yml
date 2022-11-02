@@ -1150,5 +1150,11 @@ scala-yaml:
   categories: [YAML]
   platforms: [scala]
 
+scorex:
+  name: Scorex
+  url: https://github.com/hyperledger-labs/Scorex
+  categories: [Blockchain]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
 # See https://github.com/disneystreaming
