@@ -1023,3 +1023,9 @@ minitest:
   url: https://github.com/monix/minitest
   categories: [Testing]
   platforms: [scala, scalajs, native]
+
+scala-xml:
+  name: scala-xml
+  url: https://github.com/scala/scala-xml
+  categories: [XML]
+  platforms: [scala, scalajs, native]
