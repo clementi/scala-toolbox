@@ -1123,7 +1123,7 @@ advxml:
 scala-cli:
   name: scala-cli
   url: https://scala-cli.virtuslab.org/
-  categories: [Build Tools]
+  categories: [Build Tools, Code Formatting Tools]
   platforms: [scala, scalajs, native]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
