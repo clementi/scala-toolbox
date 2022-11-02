@@ -1053,3 +1053,58 @@ twitter4s:
   url: https://github.com/DanielaSfregola/twitter4s
   categories: [Miscellaneous]
   platforms: [scala]
+
+dbuild:
+  name: dbuild
+  url: https://github.com/lightbend/dbuild
+  categories: [Build Tools]
+  platforms: [scala]
+
+scala-collection-contrib:
+  name: scala-collection-contrib
+  url: https://github.com/scala/scala-collection-contrib
+  categories: [Collections]
+  platforms: [scala]
+
+scalafix:
+  name: scalafix
+  url: https://github.com/scalacenter/scalafix
+  categories: [IDE Integration, Code Formatting Tools]
+  platforms: [scala]
+
+scalafix-rewrites:
+  name: scalafix-rewrites
+  url: https://github.com/scala/scala-rewrites
+  categories: [SBT Plugins, Code Formatting Tools]
+  platforms: [scala]
+
+scala-async:
+  name: scala-async
+  url: https://github.com/scala/scala-async
+  categories: [Concurrency]
+  platforms: [scala]
+
+scala-library-next:
+  name: scala-library-next
+  url: https://github.com/scala/scala-library-next
+  categories: [Compatability]
+  platforms: [scala]
+
+sbt-scala-module:
+  name: sbt-scala-module
+  url: https://github.com/scala/sbt-scala-module
+  categories: [SBT Plugins]
+  platforms: [scala]
+
+scala-java8-compat:
+  name: scala-java8-compat
+  url: https://github.com/scala/scala-java8-compat
+  categories: [Compatability]
+  platforms: [scala]
+
+scala-parallel-collections:
+  name: scala-parallel-collections
+  url: https://github.com/scala/scala-parallel-collections
+  categories: [Collections, Concurrency]
+  platforms: [scala]
+
