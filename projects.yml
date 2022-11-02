@@ -1108,3 +1108,16 @@ scala-parallel-collections:
   categories: [Collections, Concurrency]
   platforms: [scala]
 
+acyclic:
+  name: acyclic
+  url: https://github.com/com-lihaoyi/acyclic
+  categories: [Dependency Management, SBT Plugins]
+  platforms: [scala]
+
+advxml:
+  name: advxml
+  url: https://github.com/geirolz/advxml
+  categories: [XML]
+  platforms: [scala]
+
+# See https://github.com/scala/community-build/blob/2.13.x/projs.conf
