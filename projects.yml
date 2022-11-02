@@ -569,9 +569,9 @@ unfiltered:
   platforms: [scala]
 
 upickle:
-  name: uPickle
+  name: µPickle
   url: https://com-lihaoyi.github.io/upickle
-  categories: [Data Serialization, Binary Data]
+  categories: [Data Serialization, Binary Data, JSON]
   platforms: [scala]
 
 utest:
