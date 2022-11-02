@@ -569,9 +569,9 @@ unfiltered:
   platforms: [scala]
 
 upickle:
-  name: uPickle
+  name: µPickle
   url: https://com-lihaoyi.github.io/upickle
-  categories: [Data Serialization, Binary Data]
+  categories: [Data Serialization, Binary Data, JSON]
   platforms: [scala]
 
 utest:
@@ -1127,3 +1127,4 @@ scala-cli:
   platforms: [scala, scalajs, native]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
+# See https://github.com/disneystreaming
