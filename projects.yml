@@ -1035,3 +1035,21 @@ jackson-module-scala:
   url: https://github.com/FasterXML/jackson-module-scala
   categories: [JSON]
   platforms: [scala]
+
+mima:
+  name: mima
+  url: https://github.com/lightbend/mima
+  categories: [SBT Plugins]
+  platforms: [scala]
+
+scala-swing:
+  name: scala-swing
+  url: https://github.com/scala/scala-swing
+  categories: [GUIs]
+  platforms: [scala]
+
+twitter4s:
+  name: twitter4s
+  url: https://github.com/DanielaSfregola/twitter4s
+  categories: [Miscellaneous]
+  platforms: [scala]
