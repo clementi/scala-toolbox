@@ -1127,3 +1127,4 @@ scala-cli:
   platforms: [scala, scalajs, native]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
+# See https://github.com/disneystreaming
