@@ -1174,5 +1174,52 @@ zio-http:
   categories: [Web Services, Web Frameworks]
   platforms: [scala]
 
+sbtx:
+  name: sbt: the rebel cut (sbtx)
+  url: https://github.com/dwijnand/sbt-extras
+  categories: [Build Tools]
+  platforms: [scala, scalajs, native]
+
+smithy4s:
+  name: smithy4s
+  url: https://github.com/disneystreaming/smithy4s
+  categories: [AWS, Smithy]
+  platforms: [scala]
+
+weaver-test:
+  name: weaver-test
+  url: https://github.com/disneystreaming/weaver-test
+  categories: [Testing]
+  platforms: [scala]
+
+smithy-translate:
+  name: smithy-translate
+  url: https://github.com/disneystreaming/smithy-translate
+  categories: [Smithy]
+  platforms: [scala]
+
+alloy:
+  name: alloy
+  url: https://github.com/disneystreaming/alloy
+  categories: [Smithy]
+  platforms: [scala]
+
+smithy4s.g8:
+  name: smithy4s.g8
+  url: https://github.com/disneystreaming/smithy4s.g8
+  categories: [Giter8 Templates]
+  platforms: [scala]
+
+neutrino:
+  name: neutrino
+  url: https://github.com/disneystreaming/neutrino
+  categories: [Dependency Injection, Application Frameworks]
+  platforms: [scala]
+
+weaver-intellij:
+  name: weaver-intellij
+  url: https://github.com/disneystreaming/weaver-intellij
+  categories: [IDE Integration]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
-# See https://github.com/disneystreaming
