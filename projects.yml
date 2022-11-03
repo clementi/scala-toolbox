@@ -1168,5 +1168,11 @@ ensime:
   categories: [IDE Integration]
   platforms: [scala]
 
+zio-http:
+  name: zio-http
+  url: https://github.com/zio/zio-http
+  categories: [Web Services, Web Frameworks]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
 # See https://github.com/disneystreaming
