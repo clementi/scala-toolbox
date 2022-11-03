@@ -1156,5 +1156,17 @@ scorex:
   categories: [Blockchain]
   platforms: [scala]
 
+scalastyle:
+  name: scalastyle
+  url: https://github.com/scalastyle/scalastyle
+  categories: [Code Analysis]
+  platforms: [scala]
+
+ensime:
+  name: ensime
+  url: https://ensime.github.io/
+  categories: [IDE Integration]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
 # See https://github.com/disneystreaming
