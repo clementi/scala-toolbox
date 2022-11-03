@@ -1175,7 +1175,7 @@ zio-http:
   platforms: [scala]
 
 sbtx:
-  name: sbt: the rebel cut (sbtx)
+  name: "sbt: the rebel cut (sbtx)"
   url: https://github.com/dwijnand/sbt-extras
   categories: [Build Tools]
   platforms: [scala, scalajs, native]
@@ -1204,7 +1204,7 @@ alloy:
   categories: [Smithy]
   platforms: [scala]
 
-smithy4s.g8:
+smithy4s-g8:
   name: smithy4s.g8
   url: https://github.com/disneystreaming/smithy4s.g8
   categories: [Giter8 Templates]
