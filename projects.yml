@@ -728,7 +728,7 @@ sbt:
   name: SBT
   url: https://www.scala-sbt.org/
   categories: [Build Tools]
-  platforms: [scala, scalajs]
+  platforms: [scala, scalajs, native]
 
 skunk:
   name: skunk
@@ -1220,6 +1220,12 @@ weaver-intellij:
   name: weaver-intellij
   url: https://github.com/disneystreaming/weaver-intellij
   categories: [IDE Integration]
+  platforms: [scala]
+
+scala-graph:
+  name: scala-graph
+  url: https://github.com/scala-graph/scala-graph
+  categories: [Graphs]
   platforms: [scala]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
