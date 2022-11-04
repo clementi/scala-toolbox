@@ -737,7 +737,7 @@ skunk:
   platforms: [scala]
 
 armeria:
-  name: Armeria
+  name: armeria-scala
   url: https://armeria.dev/docs/advanced-scala/
   categories: [Web Services]
   platforms: [scala]
