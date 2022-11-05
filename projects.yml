@@ -1228,4 +1228,16 @@ scala-graph:
   categories: [Graphs]
   platforms: [scala]
 
+adopt-tapir:
+  name: adopt-tapir
+  url: https://adopt-tapir.softwaremill.com/
+  categories: [Project Generators]
+  platforms: [scala]
+
+adopt-tapir-cli-scala:
+  name: adopt-tapir-cli-scala
+  url: https://github.com/clementi/adopt-tapir-cli-scala
+  categories: [Project Generators]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
