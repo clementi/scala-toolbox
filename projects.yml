@@ -1240,4 +1240,40 @@ adopt-tapir-cli-scala:
   categories: [Project Generators]
   platforms: [scala]
 
+cornichon:
+  name: cornichon
+  url: https://github.com/agourlay/cornichon
+  categories: [Testing]
+  platforms: [scala]
+
+sbt-jmh:
+  name: sbt-jmh
+  url: https://github.com/sbt/sbt-jmh
+  categories: [Benchmarking]
+  platforms: [scala]
+
+gatling:
+  name: gatling
+  url: https://github.com/gatling/gatling
+  categories: [Benchmarking]
+  platforms: [scala]
+
+ssu:
+  name: ssu
+  url: https://github.com/fredszaq/ssu
+  categories: [RSS Generation]
+  platforms: [scala]
+
+graphite4s:
+  name: graphite4s
+  url: https://github.com/YannMoisan/graphite4s
+  categories: [Metrics]
+  platforms: [scala]
+
+kamon:
+  name: Kamon
+  url: https://github.com/kamon-io/Kamon
+  categories: [Metrics]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
