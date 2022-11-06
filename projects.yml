@@ -1249,7 +1249,7 @@ cornichon:
 sbt-jmh:
   name: sbt-jmh
   url: https://github.com/sbt/sbt-jmh
-  categories: [Benchmarking]
+  categories: [Benchmarking, SBT Plugins]
   platforms: [scala]
 
 gatling:
