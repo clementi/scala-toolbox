@@ -1228,6 +1228,7 @@ scala-graph:
   categories: [Graphs]
   platforms: [scala]
 
+<<<<<<< HEAD
 adopt-tapir:
   name: adopt-tapir
   url: https://adopt-tapir.softwaremill.com/
@@ -1274,6 +1275,24 @@ kamon:
   name: Kamon
   url: https://github.com/kamon-io/Kamon
   categories: [Metrics]
+  platforms: [scala]
+
+odin:
+  name: odin
+  url: https://github.com/valskalla/odin
+  categories: [Logging]
+  platforms: [scala]
+
+skadi:
+  name: skadi
+  url: https://github.com/valskalla/skadi
+  categories: [Tracing]
+  platforms: [scala]
+
+graalnative4s:
+  name: graalnative4s
+  url: https://github.com/usommerl/graalnative4s
+  categories: [Serverless]
   platforms: [scala]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
