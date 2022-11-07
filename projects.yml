@@ -1228,7 +1228,6 @@ scala-graph:
   categories: [Graphs]
   platforms: [scala]
 
-<<<<<<< HEAD
 adopt-tapir:
   name: adopt-tapir
   url: https://adopt-tapir.softwaremill.com/
