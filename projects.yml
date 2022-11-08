@@ -1294,4 +1294,16 @@ graalnative4s:
   categories: [Serverless]
   platforms: [scala]
 
+scaps:
+  name: scaps
+  url: https://github.com/scala-search/scaps
+  categories: [API Search]
+  platforms: [scala]
+
+inkuire:
+  name: Inkuire
+  url: https://github.com/VirtusLab/Inkuire
+  categories: [API Search]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
