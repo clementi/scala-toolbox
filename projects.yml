@@ -1306,4 +1306,22 @@ inkuire:
   categories: [API Search]
   platforms: [scala]
 
+diffx:
+  name: diffx
+  url: https://github.com/softwaremill/diffx
+  categories: [Miscellaneous]
+  platforms: [scala]
+
+cats-effect-testing:
+  name: cats-effect-testing
+  url: https://github.com/typelevel/cats-effect-testing
+  categories: [Functional Programming, Testing]
+  platforms: [scala]
+
+specs2:
+  name: specs2
+  url: https://github.com/etorreborre/specs2
+  categories: [Testing]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
