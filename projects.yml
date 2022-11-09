@@ -1324,4 +1324,10 @@ specs2:
   categories: [Testing]
   platforms: [scala]
 
+squeryl:
+  name: squeryl
+  url: https://github.com/squeryl/squeryl
+  categories: [Data Access]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
