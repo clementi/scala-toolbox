@@ -1333,7 +1333,7 @@ squeryl:
 conscript:
   name: Conscript
   url: https://github.com/foundweekends/conscript
-  categories: [App Installer]
+  categories: [App Installers]
   platforms: [scala]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
