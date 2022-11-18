@@ -1336,4 +1336,10 @@ conscript:
   categories: [App Installers]
   platforms: [scala]
 
+scalate:
+  name: Scalate
+  url: https://github.com/scalate/scalate
+  categories: [HTML Generation, Templating]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
