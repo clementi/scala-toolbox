@@ -1175,7 +1175,7 @@ zio-http:
   platforms: [scala]
 
 sbtx:
-  name: sbt: the rebel cut (sbtx)
+  name: "sbt: the rebel cut (sbtx)"
   url: https://github.com/dwijnand/sbt-extras
   categories: [Build Tools]
   platforms: [scala, scalajs, native]
