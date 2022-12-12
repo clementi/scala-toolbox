@@ -1346,5 +1346,6 @@ borer:
   name: borer
   url: https://github.com/sirthias/borer
   categories: [JSON, Binary Data, Data Serialization]
+  platforms: [scala]
 
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
