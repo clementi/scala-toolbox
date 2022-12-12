@@ -1342,4 +1342,9 @@ scalate:
   categories: [HTML Generation, Templating]
   platforms: [scala]
 
+borer:
+  name: borer
+  url: https://github.com/sirthias/borer
+  categories: [JSON, Binary Data, Data Serialization]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
