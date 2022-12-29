@@ -1234,9 +1234,9 @@ adopt-tapir:
   categories: [Project Generators]
   platforms: [scala]
 
-adopt-tapir-cli-scala:
-  name: adopt-tapir-cli-scala
-  url: https://github.com/clementi/adopt-tapir-cli-scala
+adopt-tapir-cli:
+  name: adopt-tapir (CLI)
+  url: https://github.com/clementi/adopt-tapir
   categories: [Project Generators]
   platforms: [scala]
 
