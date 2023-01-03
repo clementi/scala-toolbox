@@ -1348,4 +1348,10 @@ borer:
   categories: [JSON, Binary Data, Data Serialization]
   platforms: [scala]
 
+lam:
+  name: lam
+  url: https://github.com/clementi/lam
+  categories: [Miscellaneous]
+  platforms: [scala]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
