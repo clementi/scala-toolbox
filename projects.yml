@@ -1354,4 +1354,16 @@ lam:
   categories: [Miscellaneous]
   platforms: [scala]
 
+msgpack-scala:
+  name: msgpack-scala
+  url: https://github.com/msgpack/msgpack-scala
+  categories: [Binary Data, Data Serialization]
+  platforms: [scala]
+
+msgpack4z:
+  name: msgpack4z
+  url: https://github.com/msgpack4z/msgpack4z-core
+  categories: [Binary Data, Data Serialization]
+  platforms: [scala, scalajs]
+
 # See https://github.com/scala/community-build/blob/2.13.x/projs.conf
