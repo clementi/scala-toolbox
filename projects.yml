@@ -1366,4 +1366,226 @@ msgpack4z:
   categories: [Binary Data, Data Serialization]
   platforms: [scala, scalajs, native]
 
-# See https://github.com/scala/community-build/blob/2.13.x/projs.conf
+scala-one:
+  name: one
+  url: https://github.com/propensive/one
+  categories: [Miscellaneous]
+  platforms: [scala, scalajs, native]
+
+scala-one:
+  name: one
+  url: https://github.com/propensive/one
+  categories: [Miscellaneous]
+  platforms: [scala]
+
+honeycomb:
+  name: honeycomb
+  url: https://github.com/propensive/honeycomb
+  categories: [HTML]
+  platforms: [scala]
+
+cataclysm:
+  name: cataclysm
+  url: https://github.com/propensive/cataclysm
+  categories: [CSS]
+  platforms: [scala]
+
+jacinta:
+  name: jacinta
+  url: https://github.com/propensive/jacinta
+  categories: [JSON]
+  platforms: [scala]
+
+xylophone:
+  name: xylophone
+  url: https://github.com/propensive/xylophone
+  categories: [XML]
+  platforms: [scala]
+
+caesura:
+  name: caesura
+  url: https://github.com/propensive/caesura
+  categories: [CSV Parsers]
+  platforms: [scala]
+
+gossamer:
+  name: gossamer
+  url: https://github.com/propensive/gossamer
+  categories: [Typesafe Strings]
+  platforms: [scala]
+
+escapade:
+  name: escapade
+  url: https://github.com/propensive/escapade
+  categories: [ANSI-escaped Strings]
+  platforms: [scala]
+
+punctuation:
+  name: punctuation
+  url: https://github.com/propensive/punctuation
+  categories: [Markdown]
+  platforms: [scala]
+
+telekinesis:
+  name: telekinesis
+  url: https://github.com/propensive/telekinesis
+  categories: [HTTP Clients]
+  platforms: [scala]
+
+scintillate:
+  name: scintillate
+  url: https://github.com/propensive/scintillate
+  categories: [HTTP Servers]
+  platforms: [scala]
+
+exoskeleton:
+  name: exoskeleton
+  url: https://github.com/propensive/exoskeleton
+  categories: [CLI]
+  platforms: [scala]
+
+galilei:
+  name: galilei
+  url: https://github.com/propensive/galilei
+  categories: [Filesystem Utilities]
+  platforms: [scala]
+
+surveillance:
+  name: surveillance
+  url: https://github.com/propensive/surveillance
+  categories: [Filesystem Watchers]
+  platforms: [scala]
+
+imperial:
+  name: imperial
+  url: https://github.com/propensive/imperia
+  categories: [Filesystem Utilities]
+  platforms: [scala]
+
+ambience:
+  name: ambience
+  url: https://github.com/propensive/ambience
+  categories: [System Utilities]
+  platforms: [scala]
+
+guillotine:
+  name: guillotine
+  url: https://github.com/propensive/guillotine
+  categories: [Shell Process Management]
+  platforms: [scala]
+
+profanity:
+  name: profanity
+  url: https://github.com/propensive/profanity
+  categories: [System Utilities]
+  platforms: [scala]
+
+gastronomy:
+  name: gastronomy
+  url: https://github.com/propensive/gastronomy
+  categories: [Cryptography]
+  platforms: [scala]
+
+escritoire:
+  name: escritoire
+  url: https://github.com/propensive/escritoire
+  categories: [Tabular Output]
+  platforms: [scala]
+
+kaleidoscope:
+  name: kaleidoscope
+  url: https://github.com/propensive/kaleidoscope
+  categories: [Regular Expressions]
+  platforms: [scala]
+
+iridescence:
+  name: iridescence
+  url: https://github.com/propensive/iridescence
+  categories: [Color Algebra]
+  platforms: [scala]
+
+acyclicity:
+  name: acyclicity
+  url: https://github.com/propensive/acyclicity
+  categories: [Graphs]
+  platforms: [scala]
+
+cosmopolite:
+  name: cosmopolite
+  url: https://github.com/propensive/cosmopolite
+  categories: [Multilingual Strings, String Manipulation]
+  platforms: [scala]
+
+gesticulate:
+  name: gesticulate
+  url: https://github.com/propensive/gesticulate
+  categories: [MIME Type Handling]
+  platforms: [scala]
+
+serpentine:
+  name: serpentine
+  url: https://github.com/propensive/serpentine
+  categories: [Generalized Paths]
+  platforms: [scala]
+
+wisteria:
+  name: wisteria
+  url: https://github.com/propensive/wisteria
+  categories: [Functional Programming, Typeclasses]
+  platforms: [scala]
+
+contextual:
+  name: contextual
+  url: https://github.com/propensive/contextual
+  categories: [String Manipulation]
+  platforms: [scala]
+
+adversaria:
+  name: adversaria
+  url: https://github.com/propensive/adversaria
+  categories: [Annotations]
+  platforms: [scala]
+
+turbulence:
+  name: turbulence
+  url: https://github.com/propensive/turbulence
+  categories: [Stream Processing]
+  platforms: [scala]
+
+polyvinyl:
+  name: polyvinyl
+  url: https://github.com/propensive/polyvinyl
+  categories: [Type Providers]
+  platforms: [scala]
+
+anticipation:
+  name: anticipation
+  url: https://github.com/propensive/anticipation
+  categories: [Library Decoupling and Abstraction]
+  platforms: [scala]
+
+probably:
+  name: probably
+  url: https://github.com/propensive/probably
+  categories: [Testing]
+  platforms: [scala]
+
+tarantula:
+  name: tarantula
+  url: https://github.com/propensive/tarantula
+  categories: [Testing, Browser Testing]
+  platforms: [scala]
+
+harlequin:
+  name: harlequin
+  url: https://github.com/propensive/harlequin
+  categories: [Scala Syntax Highlighting]
+  platforms: [scala]
+
+rudiments:
+  name: rudiments
+  url: https://github.com/propensive/rudiments
+  categories: [Scala Extensions]
+  platforms: [scala]
+
+# See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
