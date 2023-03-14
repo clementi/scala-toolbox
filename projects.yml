@@ -1588,4 +1588,16 @@ rudiments:
   categories: [Scala Extensions]
   platforms: [scala]
 
+better-files:
+  name: better-files
+  url: https://github.com/pathikrit/better-files
+  categories: [Filesystem Utilities]
+  platforms: [scala]
+
+directory-watcher:
+  name: directy-watcher
+  url: https://github.com/gmethvin/directory-watcher
+  categories: [Filesystem Watchers]
+  platforms: [scala]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
