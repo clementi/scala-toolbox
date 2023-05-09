@@ -252,7 +252,7 @@ modux:
 
 monix:
   name: Monix
-  url: https://modux4s.github.io/modux
+  url: https://monix.io
   categories: [Asynchronous I/O, Evented I/O, Effects]
   platforms: [scala]
 
