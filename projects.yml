@@ -1600,4 +1600,10 @@ directory-watcher:
   categories: [Filesystem Watchers]
   platforms: [scala]
 
+ip4s:
+  name: ip4s
+  url: https://github.com/Comcast/ip4s
+  categories: [Data Structures]
+  platforms: [scala, scalajs, native]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
