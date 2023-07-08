@@ -1606,4 +1606,10 @@ ip4s:
   categories: [Data Structures]
   platforms: [scala, scalajs, native]
 
+pekko:
+  name: Pekko
+  url: https://pekko.apache.org/
+  categories: [Actors, Reactive]
+  platforms: [scala]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
