@@ -1612,4 +1612,10 @@ pekko:
   categories: [Actors, Reactive]
   platforms: [scala]
 
+saddle:
+  name: Saddle
+  url: https://github.com/pityka/saddle
+  categories: [Data Manipulation]
+  platforms: [scala, scalajs]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
