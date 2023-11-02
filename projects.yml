@@ -1618,4 +1618,10 @@ saddle:
   categories: [Data Manipulation]
   platforms: [scala, scalajs]
 
+iron:
+  name: Iron
+  url: https://github.com/Iltotore/iron
+  categories: [Refinement Types]
+  platforms: [scala, scalajs, native]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
