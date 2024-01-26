@@ -1624,4 +1624,10 @@ iron:
   categories: [Refinement Types]
   platforms: [scala, scalajs, native]
 
+scanamo:
+  name: Scanamo
+  url: https://www.scanamo.org/
+  categories: [Data Access]
+  platforms: [scala]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
