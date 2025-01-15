@@ -1630,4 +1630,10 @@ scanamo:
   categories: [Data Access]
   platforms: [scala]
 
+kyo:
+  name: Kyo
+  url: https://getkyo.io/
+  categories: [Effects, Algebras, Functional Programming]
+  platforms: [scala]
+
 # See also https://github.com/scala/community-build/blob/2.13.x/projs.conf
